@@ -1,3 +1,20 @@
+## Hobby Locale
+The project was developed as Full Stack Web Application. Frontend was developed using AngularJS 2 and Bootstrap 4. The backend was developed using Node.js over serverless architecture Apache OpenWhisk implementing Microservices and MongoDB as NoSQL database. The application is a platform where people with similar hobbies would gather together, post and register to events regarding various hobbies, have healthy discussions about hobbies, rate and review events and hobbies. To view the events, user doesn't need to login but to post or register for an event, user need to create an account.
+
+The following repositorries contain the code and detailed instructions about how to implement it. It contains repository for frontend application, all the backend microservices applications.
+
+Front end application: https://github.com/goyalr/client-app
+
+Authentication microserices: https://github.com/goyalr/login-action
+
+Users microservices: https://github.com/goyalr/user-action
+
+Events microservices: https://github.com/goyalr/events-action
+
+
+
+
+
 ## Automation Of RSO Binder
 
 The project was developed to update and automate the paper based Residential Safety Office(RSO) Binder into an web application that will reduce the errors caused by manual errors and make the system more efficient. 
