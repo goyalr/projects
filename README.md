@@ -1,3 +1,16 @@
+## React-native-project
+LoginNPush is a basic app where users can sign in to the app using their Google accounts. 
+Upon login, the user is greeted with a Good morning/Good afternoon/Good evening message, depending on the time of the day.
+The background image upon login also varies depending on the time of the day.
+The logged in user can send and receive Push Notifications to get the current time from the server. 
+
+### App Demo
+
+![Alt Text](https://github.com/goyalr/react-native-sample/blob/master/DemoGIF/AppDemo.gif)
+
+Application repository: https://github.com/goyalr/react-native-sample
+
+
 ## Hobby Locale
 The project was developed as Full Stack Web Application. Frontend was developed using AngularJS 2 and Bootstrap 4. The backend was developed using Node.js over serverless architecture Apache OpenWhisk implementing Microservices and MongoDB as NoSQL database. The application is a platform where people with similar hobbies would gather together, post and register to events regarding various hobbies, have healthy discussions about hobbies, rate and review events and hobbies. To view the events, user doesn't need to login but to post or register for an event, user need to create an account.
 
